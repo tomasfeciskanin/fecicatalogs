@@ -1,0 +1,6 @@
+product_id,title,attributes_json
+P-5001,T-Shirt Basic,"{""dimensions"": {""height"": 70, ""width"": 50, ""length"": 2}, ""color"": ""Blue"", ""tags"": [""summer"", ""cotton""]}"
+P-5002,Running Shoes,"{""dimensions"": {""height"": 12, ""width"": 30, ""length"": 10}, ""color"": ""Black"", ""tags"": [""sport"", ""men""]}"
+P-5003,Wireless Headphones,"{""dimensions"": {""height"": 20, ""width"": 18, ""length"": 8}, ""color"": ""White"", ""tags"": [""audio"", ""wireless""]}"
+P-5004,Coffee Mug,"{""dimensions"": {""height"": 10, ""width"": 8, ""length"": 8}, ""color"": ""Green"", ""tags"": [""kitchen"", ""ceramic""]}"
+P-5005,Gaming Mouse,"{""dimensions"": {""height"": 4, ""width"": 7, ""length"": 12}, ""color"": ""Red"", ""tags"": [""gaming"", ""accessory""]}"
