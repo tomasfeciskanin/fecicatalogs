@@ -1,4 +1,6 @@
-product_id,attributes_json
-P-1,"{""dimensions"": {""height"": 70}, ""color"": ""Blue""}"
-P-2,"{""dimensions"": {""height"": 120}, ""color"": ""Red""}"
-P-3,"{""dimensions"": {""height"": 50}, ""color"": ""Green""}"
+product_id,title,price,original_price,brand,category
+P-9001,T-Shirt Basic,19.90,29.90,BloomBrand,Apparel
+P-9002,Running Shoes,79.00,99.00,FastStep,Footwear
+P-9003,Wireless Headphones,129.00,159.00,Soundify,Electronics
+P-9004,Coffee Mug,7.50,7.50,HomeJoy,Home & Kitchen
+P-9005,Gaming Mouse,49.90,59.90,ProPlay,Electronics
